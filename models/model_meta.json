@@ -1,0 +1,45 @@
+{
+  "best_model": "XGBoost",
+  "accuracy": 0.9710610932475884,
+  "kappa": 0.9651862303808909,
+  "features": [
+    "B2",
+    "B3",
+    "B4",
+    "B5",
+    "B6",
+    "B7",
+    "B8",
+    "B8A",
+    "B11",
+    "B12",
+    "NDVI",
+    "NDWI",
+    "MNDWI",
+    "NDBI",
+    "NDMI",
+    "EVI",
+    "SAVI",
+    "CMRI",
+    "elevation",
+    "slope"
+  ],
+  "class_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "class_names": [
+    "Sawah",
+    "Bangunan",
+    "Mangrove",
+    "Lahan Hijau",
+    "Perairan Terbuka (Laut)",
+    "Danau (Ranu)"
+  ],
+  "label_offset": 1,
+  "split_mode": "polygon"
+}

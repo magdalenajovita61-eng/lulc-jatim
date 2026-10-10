@@ -1,0 +1,242 @@
+{
+  "surabaya_sidoarjo": {
+    "label": "Surabaya - Gresik - Sidoarjo (pesisir)",
+    "bounds": [
+      [
+        -7.260548497829753,
+        112.59947019763517
+      ],
+      [
+        -7.119491350407138,
+        112.74061782430564
+      ]
+    ],
+    "png": "surabaya_sidoarjo_klasifikasi.png",
+    "tif": "surabaya_sidoarjo_klasifikasi.tif",
+    "model": "XGBoost",
+    "area": [
+      {
+        "class_id": 1,
+        "kelas": "Sawah",
+        "piksel": 398008,
+        "luas_ha": 3980.08,
+        "persen": 16.6
+      },
+      {
+        "class_id": 2,
+        "kelas": "Bangunan",
+        "piksel": 1028067,
+        "luas_ha": 10280.67,
+        "persen": 42.89
+      },
+      {
+        "class_id": 3,
+        "kelas": "Mangrove",
+        "piksel": 240091,
+        "luas_ha": 2400.91,
+        "persen": 10.02
+      },
+      {
+        "class_id": 4,
+        "kelas": "Lahan Hijau",
+        "piksel": 11549,
+        "luas_ha": 115.49,
+        "persen": 0.48
+      },
+      {
+        "class_id": 5,
+        "kelas": "Perairan Terbuka (Laut)",
+        "piksel": 618190,
+        "luas_ha": 6181.9,
+        "persen": 25.79
+      },
+      {
+        "class_id": 6,
+        "kelas": "Danau (Ranu)",
+        "piksel": 101188,
+        "luas_ha": 1011.88,
+        "persen": 4.22
+      }
+    ]
+  },
+  "lumajang_ranu": {
+    "label": "Lumajang (Ranu Klakah/Bedali)",
+    "bounds": [
+      [
+        -8.10096272469814,
+        113.29908394702755
+      ],
+      [
+        -7.939010825141512,
+        113.46103584658418
+      ]
+    ],
+    "png": "lumajang_ranu_klasifikasi.png",
+    "tif": "lumajang_ranu_klasifikasi.tif",
+    "model": "XGBoost",
+    "area": [
+      {
+        "class_id": 1,
+        "kelas": "Sawah",
+        "piksel": 250766,
+        "luas_ha": 2507.66,
+        "persen": 8.02
+      },
+      {
+        "class_id": 2,
+        "kelas": "Bangunan",
+        "piksel": 396376,
+        "luas_ha": 3963.76,
+        "persen": 12.67
+      },
+      {
+        "class_id": 3,
+        "kelas": "Mangrove",
+        "piksel": 7868,
+        "luas_ha": 78.68,
+        "persen": 0.25
+      },
+      {
+        "class_id": 4,
+        "kelas": "Lahan Hijau",
+        "piksel": 2439875,
+        "luas_ha": 24398.75,
+        "persen": 78.02
+      },
+      {
+        "class_id": 5,
+        "kelas": "Perairan Terbuka (Laut)",
+        "piksel": 0,
+        "luas_ha": 0.0,
+        "persen": 0.0
+      },
+      {
+        "class_id": 6,
+        "kelas": "Danau (Ranu)",
+        "piksel": 32377,
+        "luas_ha": 323.77,
+        "persen": 1.04
+      }
+    ]
+  },
+  "mojokerto_jombang": {
+    "label": "Mojokerto - Jombang (sawah)",
+    "bounds": [
+      [
+        -7.46063759888066,
+        112.49939383421597
+      ],
+      [
+        -7.299363027202829,
+        112.6606684058938
+      ]
+    ],
+    "png": "mojokerto_jombang_klasifikasi.png",
+    "tif": "mojokerto_jombang_klasifikasi.tif",
+    "model": "XGBoost",
+    "area": [
+      {
+        "class_id": 1,
+        "kelas": "Sawah",
+        "piksel": 2063261,
+        "luas_ha": 20632.61,
+        "persen": 65.94
+      },
+      {
+        "class_id": 2,
+        "kelas": "Bangunan",
+        "piksel": 1052095,
+        "luas_ha": 10520.95,
+        "persen": 33.63
+      },
+      {
+        "class_id": 3,
+        "kelas": "Mangrove",
+        "piksel": 1704,
+        "luas_ha": 17.04,
+        "persen": 0.05
+      },
+      {
+        "class_id": 4,
+        "kelas": "Lahan Hijau",
+        "piksel": 119,
+        "luas_ha": 1.19,
+        "persen": 0.0
+      },
+      {
+        "class_id": 5,
+        "kelas": "Perairan Terbuka (Laut)",
+        "piksel": 1,
+        "luas_ha": 0.01,
+        "persen": 0.0
+      },
+      {
+        "class_id": 6,
+        "kelas": "Danau (Ranu)",
+        "piksel": 11719,
+        "luas_ha": 117.19,
+        "persen": 0.37
+      }
+    ]
+  },
+  "malang_selatan": {
+    "label": "Malang Selatan (lahan hijau & ranu)",
+    "bounds": [
+      [
+        -8.100556841592827,
+        112.3394424234435
+      ],
+      [
+        -7.93942290497282,
+        112.50066693563215
+      ]
+    ],
+    "png": "malang_selatan_klasifikasi.png",
+    "tif": "malang_selatan_klasifikasi.tif",
+    "model": "XGBoost",
+    "area": [
+      {
+        "class_id": 1,
+        "kelas": "Sawah",
+        "piksel": 50760,
+        "luas_ha": 507.6,
+        "persen": 1.62
+      },
+      {
+        "class_id": 2,
+        "kelas": "Bangunan",
+        "piksel": 243273,
+        "luas_ha": 2432.73,
+        "persen": 7.79
+      },
+      {
+        "class_id": 3,
+        "kelas": "Mangrove",
+        "piksel": 647,
+        "luas_ha": 6.47,
+        "persen": 0.02
+      },
+      {
+        "class_id": 4,
+        "kelas": "Lahan Hijau",
+        "piksel": 2815579,
+        "luas_ha": 28155.79,
+        "persen": 90.13
+      },
+      {
+        "class_id": 5,
+        "kelas": "Perairan Terbuka (Laut)",
+        "piksel": 0,
+        "luas_ha": 0.0,
+        "persen": 0.0
+      },
+      {
+        "class_id": 6,
+        "kelas": "Danau (Ranu)",
+        "piksel": 13555,
+        "luas_ha": 135.55,
+        "persen": 0.43
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+streamlit>=1.50
+streamlit-folium>=0.22
+folium>=0.17
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+rasterio
+geopandas
+shapely
+pillow
+plotly
+joblib
+earthengine-api
